@@ -1,0 +1,30 @@
+{
+  "name": "html-webpack-plugin-prefix",
+  "version": "0.0.1",
+  "description": "A webpack plugin to allow prefix usage with webpack-html-plugin's injected chunks.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "html-webpack-plugin": "^2.28.0",
+    "webpack": "^2.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frederikprijck/html-webpack-plugin-prefix.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "webpack-html-plugin",
+    "prefix"
+  ],
+  "author": "Frederik Prijck <frederik.prijck@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frederikprijck/html-webpack-plugin-prefix/issues"
+  },
+  "homepage": "https://github.com/frederikprijck/html-webpack-plugin-prefix#readme"
+}
